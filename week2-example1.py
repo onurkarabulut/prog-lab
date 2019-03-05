@@ -34,4 +34,4 @@ def my_binary_search(my_sorted_array,item):
                 first=midpoint+1
     return found,midpoint,s
 
-my_binary_search(my_arr,25) 
+my_binary_search(my_arr,25)  

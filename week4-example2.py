@@ -72,4 +72,4 @@ def det_from_4_by_4(m_1):
     return a_4-b_4+c_4-d_4
 matrix_2=[[13,2,3,4],[5,6,7,8],[92,10,31,42],[13,134,15,16]]
 matrix_2
-det_from_4_by_4(matrix_2)
+det_from_4_by_4(matrix_2) 

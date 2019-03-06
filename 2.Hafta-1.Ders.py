@@ -1,3 +1,4 @@
+#Selection sort sıralama algoritması ile arrayın sıralanması ve binary search arama algoritması ile arama işlemi
 def my_search_selection(my_array):
     swap_count=0
     for i in range(len(my_array)-1,0,-1):

@@ -1,3 +1,4 @@
+#random bir array oluşturma, bubble sort algoritması ile arrayın sıralanması ve array içi arama işlemi
 import random
 def generate_an_array(n):
     my_array=[]

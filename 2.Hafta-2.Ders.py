@@ -1,3 +1,4 @@
+#fibonacci sayısı, faktoriyel alma ve üs alma islemlerinin hem normal döngü hemde recursive fonksiyon ile yapımı
 def fibo_loop(n):
     a,b=0,1
     if(n==0):
